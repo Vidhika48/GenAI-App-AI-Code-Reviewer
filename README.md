@@ -14,7 +14,7 @@ The application analyzes the submitted code and identifies potential bugs, error
 
 To run the application locally, follow these steps:
 1. Clone this repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
+2. Install the required dependencies using `pip install streamlit openai`.
 3. Set up your OpenAI API key by placing it in a file named `key.txt`.
 4. Run the Streamlit app using `streamlit run app.py`.
 5. Access the application through your browser.
