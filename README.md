@@ -21,6 +21,7 @@ To run the application locally, follow these steps:
 
 ## Demo
 
-![Demo](https://imgur.com/tzytVVo)
+![Screenshot 2024-04-16 113546](https://github.com/Vidhika48/GenAI-App-AI-Code-Reviewer/assets/72344159/268685d6-b9d7-4bbe-8b19-7964cfea12b5)
+
 
 
